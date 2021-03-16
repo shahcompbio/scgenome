@@ -23,7 +23,7 @@ Click==7.0
 colorama==0.4.4
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==2.8
+cryptography==3.3.2
 cycler==0.10.0
 Cython==0.29.22
 decorator==4.4.1
