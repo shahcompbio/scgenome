@@ -46,7 +46,7 @@ setup(
         'pypeliner',
         'joblib==1.1.1',
         'sphinx==5.1.1',
-        'requests==2.28'
+        'requests==2.31.0'
     ],
     package_data={
         'scgenome': [
